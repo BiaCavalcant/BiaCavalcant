@@ -1,5 +1,9 @@
 ### Olá! 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BiaCavalcant=anuraghazra&show_icons=true&bg_color=00000000)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BiaCavalcant=anuraghazra&size_weight=0.5&count_weight=0.5)
+
 Atualmente estou cursando Sistemas de Informação na São Paulo Tech School!
 
 Linguagens que estou aprendendo:
@@ -9,7 +13,6 @@ Linguagens que estou aprendendo:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 <!--
 **BiaCavalcant/BiaCavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
