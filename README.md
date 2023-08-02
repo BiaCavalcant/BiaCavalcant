@@ -1,8 +1,6 @@
 ### Olá! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaCavalcant&show_icons=true&bg_color=00000000)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaCavalcant&size_weight=0.5&count_weight=0.5)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaCavalcant)](https://github.com/BiaCavalcant/github-readme-stats)
 
 Atualmente estou cursando Sistemas de Informação na São Paulo Tech School!
 
