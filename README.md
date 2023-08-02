@@ -1,6 +1,8 @@
-### Olá! 👋
+### bem vindo ao meu perfil! :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaCavalcant&hide=prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/BiaCavalcant/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
 
 Atualmente estou cursando Sistemas de Informação na São Paulo Tech School!
 
