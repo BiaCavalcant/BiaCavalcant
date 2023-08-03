@@ -5,7 +5,7 @@ atualmente estou cursando Sistemas de Informação na São Paulo Tech School!
 
 # projeto mais recente
 O meu projeto mais recente foi um site interativo sobre Star Wars, conectado ao banco de dados e que gera gráficos informativos para o usuário.
-As tecnologias utilizads foram: <br>
+As tecnologias utilizads foram: <br><br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,8 +13,8 @@ As tecnologias utilizads foram: <br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![ChartJS](https://img.shields.io/badge/chartjs-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<br>
-link do repositório: <br>
+<br><br>
+link do repositório: <br><br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project&theme=synthwave)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
 
 
