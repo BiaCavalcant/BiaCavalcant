@@ -15,7 +15,7 @@ As tecnologias utilizads foram: <br>
 ![ChartJS](https://img.shields.io/badge/chartjs-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br>
 link do repositório: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project&theme=synthwave)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
 
 
 
