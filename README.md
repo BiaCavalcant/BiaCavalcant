@@ -21,7 +21,6 @@ atualmente estou cursando Sistemas de Informação na São Paulo Tech School! Pr
 ## Projeto mais recente:
 O meu projeto mais recente foi um site interativo sobre Star Wars, conectado ao banco de dados e que gera gráficos informativos para o usuário.
 
-<br><br>
 ### link do repositório: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project&theme=synthwave)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
 
