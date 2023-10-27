@@ -1,4 +1,4 @@
-### bem vindo ao meu perfil! :)
+# bem vindo ao meu perfil! :)
 atualmente estou cursando Sistemas de Informação na São Paulo Tech School! Principais tecnologias que estou utilizando no momento:
 
 <a href = ""> <img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> </a>
@@ -15,17 +15,15 @@ atualmente estou cursando Sistemas de Informação na São Paulo Tech School! Pr
 <a href = ""> <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> </a>
 <a href = ""> <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> </a>
 
-# Meu Status atual:
+## Meu Status atual:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaCavalcant&hide=prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/BiaCavalcant/github-readme-stats)
 
-# Projeto mais recente:
+## Projeto mais recente:
 O meu projeto mais recente foi um site interativo sobre Star Wars, conectado ao banco de dados e que gera gráficos informativos para o usuário.
 
 <br><br>
-link do repositório: <br><br>
+### link do repositório: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project&theme=synthwave)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
-
-
 
 <!--
 **BiaCavalcant/BiaCavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
