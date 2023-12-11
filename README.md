@@ -1,5 +1,10 @@
-# bem vindo ao meu perfil! :)
-atualmente estou cursando Sistemas de Informação na São Paulo Tech School! Principais tecnologias que estou utilizando no momento:
+# Olá, eu sou a Bianca Cavalcante! 💻👩🏻🩷
+
+## bem vindo(a) ao meu perfil! :)
+
+### atualmente estou cursando Sistemas de Informação, na São Paulo Tech School! 
+
+  Estas são as principais tecnologias que estou utilizando no momento:
 
 <a href = ""> <img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> </a>
 <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
@@ -18,23 +23,27 @@ atualmente estou cursando Sistemas de Informação na São Paulo Tech School! Pr
 ## Meu Status atual:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaCavalcant&hide=prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/BiaCavalcant/github-readme-stats)
 
-## Projeto mais recente:
-O meu projeto mais recente foi um site interativo sobre Star Wars, conectado ao banco de dados e que gera gráficos informativos para o usuário.
+## Projetos mais recentes:
+Um de meus projetos mais recentes foi um site interativo sobre Star Wars, conectado ao banco de dados e que gera gráficos informativos para o usuário.
 
 ### link do repositório: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project&theme=synthwave)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
 
-<!--
-**BiaCavalcant/BiaCavalcant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Outro projeto que estou atuando no momento é a MedConnect, uma plataforma de monitoramento de hardware de máquinas cirúrgicas Da Vinci, da Intuitive Surgical.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Solução MedConnect surgiu como resposta aos desafios enfrentados pelas máquinas cirúrgicas Da Vinci, da Intuitive Surgical, relacionados à instabilidade de hardware. Nosso compromisso primordial é proporcionar segurança às cirurgias minuciosas conduzidas por esse dispositivo. Em um cenário em que o mercado tecnológico cresce de maneira constante, abrangendo setores cruciais como o hospitalar, as cirurgias robóticas emergiram como uma contribuição significativa, salvando inúmeras vidas ao redor do mundo.
+
+### link do repostório: <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=MedConnect&theme=synthwave)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
+
+Ciente de relatos anteriores sobre falhas de hardware em robôs cirúrgicos, nossa missão é mitigar esses problemas, fomentando o crescimento desse mercado e, assim, preservar mais vidas.
+
+## Sobre mim
+- 🔭 Atualmente estou trabalhando no desenvolvimento de um projeto de monitoramente de hardware!
+- 🌱 As principais stacks que estou aprendendo são Kotlin, Python e SQL Server e NodeJS.
+- 👯 Estou procurando, no momento, por me desenvolver mais na área de Front-End.
+- 💬 Me pergunte sobre Design/Prototipação!
+- 📫 Entre em contato comigo através do email: b.cavalcantereis@gmail.com
+- ⚡ Fun fact: Pretendo ser programadora Full-Stack!
