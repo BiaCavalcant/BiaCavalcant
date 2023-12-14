@@ -2,6 +2,8 @@
 
 ## bem vindo(a) ao meu perfil! :)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=BiaCavalcant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### atualmente estou cursando Sistemas de Informação, na São Paulo Tech School! 
 
   Estas são as principais tecnologias que estou utilizando no momento:
