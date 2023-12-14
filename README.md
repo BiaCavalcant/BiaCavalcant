@@ -1,12 +1,12 @@
 # Olá, eu sou a Bianca Cavalcante! 💻👩🏻🩷
 
-## bem vindo(a) ao meu perfil! :)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2192&random=false&width=435&lines=bem+vindo(a)+ao+meu+perfil!+%3C3)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BiaCavalcant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### atualmente estou cursando Sistemas de Informação, na São Paulo Tech School! 
 
-  Estas são as principais tecnologias que estou utilizando no momento:
+Principais stacks já desenvolvidas:
 
 <a href = ""> <img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> </a>
 <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
@@ -19,8 +19,14 @@
 <a href = ""> <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> </a>
 <a href = ""> <img src = "https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"> </a>
 <a href = ""> <img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> </a>
 <a href = ""> <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> </a>
+<a href = ""> <img src = "https://img.shields.io/badge/Php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54"> </a>
+<a href = ""> <img src = "https://img.shields.io/badge/docker-%23276DC3.svg?style=for-the-badge&logo=docker&logoColor=white"> </a>
+<a href = ""> <img src = "https://img.shields.io/badge/aws-F5788D.svg?style=for-the-badge&logo=aws&logoColor=white"> </a>
+<a href = ""> <img src = "https://img.shields.io/badge/powershell-6DA55F?style=for-the-badge&logo=powershell&logoColor=white"> </a>
+<a href = ""> <img src = "https://img.shields.io/badge/Linux-00979D?style=for-the-badge&logo=linux&logoColor=white"> </a>
+<a href = ""> <img src = "https://img.shields.io/badge/Git-%23026AA7.svg?style=for-the-badge&logo=git&logoColor=white"> </a>
+
 
 ## Meu Status atual:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaCavalcant&hide=prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/BiaCavalcant/github-readme-stats)
