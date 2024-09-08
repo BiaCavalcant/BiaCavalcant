@@ -8,34 +8,34 @@
 
 Principais stacks já desenvolvidas:
 
-<a href = ""> <img src = "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> </a>
-<img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
-<a href = ""> <img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"> </a>
-<img src="https://camo.githubusercontent.com/93c855ae825c1757f3426f05a05f4949d3b786c5b22d0edb53143a9e8f8499f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"> <img src="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
-<a href = ""> <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/docker-%23276DC3.svg?style=for-the-badge&logo=docker&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/aws-F5788D.svg?style=for-the-badge&logo=aws&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/powershell-6DA55F?style=for-the-badge&logo=powershell&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Linux-00979D?style=for-the-badge&logo=linux&logoColor=white"> </a>
-<a href = ""> <img src = "https://img.shields.io/badge/Git-%23026AA7.svg?style=for-the-badge&logo=git&logoColor=white"> </a>
-
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="(https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 
 ## Meu Status atual:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaCavalcant&hide=prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/BiaCavalcant/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaCavalcant&hide=prs,issues,contribs&show_icons=true&theme=neon)](https://github.com/BiaCavalcant/github-readme-stats)
 
 ## Projetos mais recentes:
-Um de meus projetos mais recentes foi um site interativo sobre Star Wars, conectado ao banco de dados e que gera gráficos informativos para o usuário.
+Um de meus projetos mais recentes foi um site interativo sobre Star Wars, conectado ao banco de dados e que gera gráficos informativos para o usuário. Desenvolvido com as últimas tendências de UX Design e utilizando das melhores práticas para desenvolvimento web, através do Node Express faz requisições em BD Local para exibir informações no site. 
 
 ### link do repositório: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project&theme=synthwave)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=The_StarWars_Universe_Project&theme=neon)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
 
 <br>
 
@@ -44,7 +44,7 @@ Outro projeto que estou atuando no momento é a MedConnect, uma plataforma de mo
 A Solução MedConnect surgiu como resposta aos desafios enfrentados pelas máquinas cirúrgicas Da Vinci, da Intuitive Surgical, relacionados à instabilidade de hardware. Nosso compromisso primordial é proporcionar segurança às cirurgias minuciosas conduzidas por esse dispositivo. Em um cenário em que o mercado tecnológico cresce de maneira constante, abrangendo setores cruciais como o hospitalar, as cirurgias robóticas emergiram como uma contribuição significativa, salvando inúmeras vidas ao redor do mundo.
 
 ### link do repostório: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=MedConnect&theme=synthwave)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiaCavalcant&repo=MedConnect&theme=neon)](https://github.com/BiaCavalcant/The_StarWars_Universe_Project)
 
 Ciente de relatos anteriores sobre falhas de hardware em robôs cirúrgicos, nossa missão é mitigar esses problemas, fomentando o crescimento desse mercado e, assim, preservar mais vidas.
 
